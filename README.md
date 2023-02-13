@@ -1,2 +1,2 @@
 # PPP-Loan-Data-Study
-Examining PPP Loan Data fro Trends
+Examining PPP Loan Data for trends
