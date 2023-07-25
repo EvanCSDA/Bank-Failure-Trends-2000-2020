@@ -1,2 +1,2 @@
-# PPP-Loan-Data-Study
+# Bank Failure Trends
 Examining PPP Loan Data for trends
